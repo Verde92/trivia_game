@@ -1,0 +1,602 @@
+[
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the name of the police officer in the cartoon 'Top Cat'?",
+        "correct_answer": "Dibble",
+        "incorrect_answers": [
+            "Barbrady",
+            "Mahoney",
+            "Murphy"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which character was played by Dustin Diamond in the sitcom 'Saved by the Bell'?",
+        "correct_answer": "Screech",
+        "incorrect_answers": [
+            "Zack",
+            "Mr. Belding",
+            "A.C. Slater"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which track by 'Massive Attack' is used for the theme of 'House'? ",
+        "correct_answer": "Teardrop",
+        "incorrect_answers": [
+            "Protection",
+            "Angel",
+            "Black Milk"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who sang the theme song for the TV show 'Rawhide'?",
+        "correct_answer": "Frankie Laine",
+        "incorrect_answers": [
+            "Guy Mitchell",
+            " Tennessee Ernie Ford",
+            "Slim Whitman"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who is the star of the AMC series Breaking Bad?",
+        "correct_answer": "Walter White",
+        "incorrect_answers": [
+            "Saul Goodman",
+            "Jesse Pinkman",
+            "Skyler White"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What's Dr. Doofenshmirtz first name?",
+        "correct_answer": "Heinz",
+        "incorrect_answers": [
+            "Hans",
+            "Hank",
+            "Heidi"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following Autobot names in Michael Bay's movies was NOT a name for a Transformer in the original 1980's cartoon?",
+        "correct_answer": "Mudflap",
+        "incorrect_answers": [
+            "Skids",
+            "Sideswipe",
+            "Ratchet"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who was the star of the TV series '24'?",
+        "correct_answer": "Kiefer Sutherland",
+        "incorrect_answers": [
+            "Kevin Bacon",
+            "Hugh Laurie",
+            "Rob Lowe"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What was the name of Ross' pet monkey on 'Friends'?",
+        "correct_answer": "Marcel",
+        "incorrect_answers": [
+            "Jojo",
+            "George",
+            "Champ"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In 'It's Always Sunny in Philadelphia' what was the name of Frank's wrestling persona?",
+        "correct_answer": "The Trash Man",
+        "incorrect_answers": [
+            "Bird of War",
+            "Day Man",
+            "The Maniac"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How many seasons did 'Stargate SG-1' have?",
+        "correct_answer": "10",
+        "incorrect_answers": [
+            "3",
+            "7",
+            "12"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Dee from 'It's Always Sunny in Philadelphia' has dated all of the following guys EXCEPT",
+        "correct_answer": "Matthew 'Rickety Cricket' Mara",
+        "incorrect_answers": [
+            "Colin the Thief",
+            "Ben the Soldier",
+            "Kevin Gallagher aka Lil' Kevin"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In Game of Thrones, what is Littlefinger's real name?",
+        "correct_answer": "Petyr Baelish",
+        "incorrect_answers": [
+            "Podrick Payne",
+            "Lancel Lannister",
+            "Torrhen Karstark"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "When did the TV show Rick and Morty first air on Adult Swim?",
+        "correct_answer": "2013",
+        "incorrect_answers": [
+            "2014",
+            "2016",
+            "2015"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In Supernatural, what's is Sam's brothers name?",
+        "correct_answer": "Dean",
+        "incorrect_answers": [
+            "Dave",
+            "Steve",
+            "Mike"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the television show Breaking Bad, what is the street name of Walter and Jesse's notorious product?",
+        "correct_answer": "Blue Sky",
+        "incorrect_answers": [
+            "Baby Blue",
+            "Rock Candy",
+            "Pure Glass"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which country does the YouTuber 'SinowBeats' originate from?",
+        "correct_answer": "Scotland",
+        "incorrect_answers": [
+            "England",
+            "Sweden",
+            "Germany"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the name of the the first episode of Doctor Who to air in 1963?",
+        "correct_answer": "An Unearthly Child",
+        "incorrect_answers": [
+            "The Daleks",
+            "The Aztecs",
+            "The Edge of Destruction"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Who played the sun baby in the original run of Teletubbies?",
+        "correct_answer": "Jessica Smith",
+        "incorrect_answers": [
+            "Pui Fan Lee",
+            "Sue Monroe",
+            "Lisa Brockwell"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the show 'Tengen Toppa Gurren Lagann' what is the name of the character who force everyone to live underground?",
+        "correct_answer": "Lordgenome",
+        "incorrect_answers": [
+            "Kingloname",
+            "Lord Genome",
+            "King Loname"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the real name of the famous spanish humorist, El Risitas?",
+        "correct_answer": "Juan Joya Borga",
+        "incorrect_answers": [
+            "Gabriel Garcia Marquez",
+            "Jesus Quintero",
+            "Ernesto Guevara"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the name of the 'Flash' and 'Arrow' spinoff featuring a team of characters that have appeared on both shows?",
+        "correct_answer": "Legends of Tomorrow",
+        "incorrect_answers": [
+            "Heroes of Tomorrow",
+            "The Justice Society of America",
+            "The Justice Society"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which show is known for the songs 'You are a Pirate', 'Cooking by the Book' and 'We Are Number One'?",
+        "correct_answer": "LazyTown",
+        "incorrect_answers": [
+            "Sofia the First",
+            "DuckTales",
+            "Tom and Jerry"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In Star Trek, what is the name of Spock's father?",
+        "correct_answer": "Sarek",
+        "incorrect_answers": [
+            "Tuvok",
+            "T'Pal",
+            "Surak"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who won Big Brother 2014 UK?",
+        "correct_answer": "Helen Wood",
+        "incorrect_answers": [
+            "Christopher Hall",
+            "Pauline Bennett",
+            "Pavandeep 'Pav' Paul"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which British writer wrote for both Doctor Who and Sherlock?",
+        "correct_answer": "Steven Moffatt",
+        "incorrect_answers": [
+            "Phil Ford",
+            "Russell T Davies",
+            "Toby Whithouse"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who was the winner of the 2016 WWE Royal Rumble?",
+        "correct_answer": "Triple H",
+        "incorrect_answers": [
+            "Roman Reigns",
+            "AJ Styles",
+            "Dean Ambrose"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the TV Show 'Donkey Kong Country', which episode did the song 'Eddie, Let Me Go Back To My Home' play in?",
+        "correct_answer": "It's a Wonderful Life",
+        "incorrect_answers": [
+            "Message In A Bottle Show",
+            "To The Moon Baboon",
+            "Ape-Nesia"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "When Donkey Kong died in the 'Donkey Kong Country' episode 'It's a Wonderful Life', who was his guardian angel?",
+        "correct_answer": "Eddie the Mean Old Yeti",
+        "incorrect_answers": [
+            "Kiddy Kong",
+            "Diddy Kong",
+            "King K. Rool"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In 'Star Trek', who was the founder of the Klingon Empire and its philosophy?",
+        "correct_answer": "Kahless the Unforgettable",
+        "incorrect_answers": [
+            "Lady Lukara of the Great Hall",
+            "Molor the Unforgiving",
+            "Dahar Master Kor"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What was Nickelodeon's original name?",
+        "correct_answer": "Pinwheel",
+        "incorrect_answers": [
+            "MTVKids",
+            "KidsTV",
+            "Splat!"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In 'Star Trek', what is the Klingon delicacy of 'gagh' made from?",
+        "correct_answer": "Serpent worms",
+        "incorrect_answers": [
+            "Earthworms",
+            "Spaghetti noodles",
+            "Klingworms"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How many seasons did the Sci-Fi television show 'Stargate Atlantis' have?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "10",
+            "2",
+            "7"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How many seasons did the Sci-Fi television show 'Stargate Universe' have?",
+        "correct_answer": "2",
+        "incorrect_answers": [
+            "10",
+            "5",
+            "3"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of these voices wasn't a choice for the House AI in 'The Simpsons Treehouse of Horror' short, House of Whacks?",
+        "correct_answer": "George Clooney",
+        "incorrect_answers": [
+            "Matthew Perry",
+            "Dennis Miller",
+            "Pierce Brosnan"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who played the Waitress in the Spam sketch of 'Monty Python's Flying Circus'?",
+        "correct_answer": "Terry Jones",
+        "incorrect_answers": [
+            "Eric Idle",
+            "Graham Chapman",
+            "John Cleese"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Alan Reed is known for providing the voice of which character?",
+        "correct_answer": "Fred Flintstone",
+        "incorrect_answers": [
+            "Bugs Bunny",
+            "Fangface",
+            "G.I. Joe"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following was not an actor\/actress on the American television show 'Saturday Night Live' in Season 42?",
+        "correct_answer": "Tina Fey",
+        "incorrect_answers": [
+            "Mikey Day",
+            "Kate McKinnon",
+            "Sasheer Zamata"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What was the name of the inflatable duck sacrified to the crowd at the end of Episode 34 of the 18th season of Big Brother?",
+        "correct_answer": "Pablo",
+        "incorrect_answers": [
+            "Esteban",
+            "Carlos",
+            "Duckster"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In season one of the US Kitchen Nightmares, Gordan Ramsay tried to save 10 different restaurants. How many ended up closing afterwards?",
+        "correct_answer": "9",
+        "incorrect_answers": [
+            "6",
+            "3",
+            "0"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In 'Star Trek: Voyager', which episode did Voyager establish real-time communication with Starfleet Headquarters?",
+        "correct_answer": "Pathfinder",
+        "incorrect_answers": [
+            "Message In A Bottle",
+            "Someone To Watch Over Me",
+            "Counterpoint"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who was the first ever actor to play 'The Doctor' on 'Doctor Who'?",
+        "correct_answer": "William Hartnell",
+        "incorrect_answers": [
+            "David Tennant",
+            "Peter Capaldi",
+            "Tom Baker"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of the following won the first season of American Idol in 2002?",
+        "correct_answer": "Kelly Clarkson",
+        "incorrect_answers": [
+            "Justin Guarini",
+            "Ruben Studdard",
+            "Chris Daughtry"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "On the NBC show Community, whose catch-phrase was 'Pop! Pop!'?",
+        "correct_answer": "Magnitude",
+        "incorrect_answers": [
+            "Star Burns",
+            "Leonard",
+            "Senoir Chang"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In Game of Thrones what is the name of Jon Snow's sword?",
+        "correct_answer": "Longclaw",
+        "incorrect_answers": [
+            "Oathkeeper",
+            "Widow's Wail",
+            "Needle"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In which state of America was the Fresh Prince of Bel-Air born and raised in?",
+        "correct_answer": "Pennsylvania",
+        "incorrect_answers": [
+            "Florida",
+            "California",
+            "New Jersey"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who was Firestorm's rival during the original run of UK Robot Wars?",
+        "correct_answer": "Panic Attack",
+        "incorrect_answers": [
+            "Razer",
+            "Chaos 2",
+            "Hypno Disc"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What actor portrays Hogan 'Wash' Washburne in the TV Show Firefly?",
+        "correct_answer": "Alan Tudyk",
+        "incorrect_answers": [
+            "Adam Baldwin",
+            "Nathan Fillion",
+            "Sean Maher"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which actor was not a major character in TV Show Freaks and Geeks?",
+        "correct_answer": "Jonah Hill",
+        "incorrect_answers": [
+            "Jason Segel",
+            "Seth Rogen",
+            "James Franco"
+        ]
+    },
+    {
+        "category": "Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Out of the 3 Tots in Tots TV, who speaks French in the UK Version and Spanish in the US Version?",
+        "correct_answer": "Tilly",
+        "incorrect_answers": [
+            "Tom",
+            "Tiny",
+            "None of the Above"
+        ]
+    }
+]

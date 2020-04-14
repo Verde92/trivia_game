@@ -1,0 +1,602 @@
+[
+  {
+    "category": "Film",
+    "type": "People",
+    "difficulty": "easy",
+    "question": "Which of the following was not one of 'The Magnificent Seven'?",
+    "correct_answer": "Clint Eastwood",
+    "incorrect_answers": [
+      "Steve McQueen",
+      "Charles Bronson",
+      "Robert Vaughn"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "Movie",
+    "difficulty": "easy",
+    "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+    "correct_answer": "Harry Potter",
+    "incorrect_answers": [
+      "Ted",
+      "Spy Kids",
+      "Pirates of the Caribbean "
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "Character",
+    "difficulty": "medium",
+    "question": "In the movie The 'Iron Giant' this character is the protagonist.",
+    "correct_answer": "Hogarth Hughes",
+    "incorrect_answers": [
+      "Kent Mansley",
+      "Dean McCoppin",
+      "Annie Hughes"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "People",
+    "difficulty": "easy",
+    "question": "Who directed 'E.T. the Extra-Terrestrial' (1982)?",
+    "correct_answer": "Steven Spielberg",
+    "incorrect_answers": [
+      "Stanley Kubrick",
+      "James Cameron",
+      "Tim Burton"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "Movie",
+    "difficulty": "easy",
+    "question": "What is the highest grossing film of all time (without adjusting for inflation)?",
+    "correct_answer": "Avengers: Endgame",
+    "incorrect_answers": [
+      "Jurassic World",
+      "Avatar",
+      "Titanic"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "Year",
+    "difficulty": "easy",
+    "question": "When was the movie 'Con Air' released?",
+    "correct_answer": "1997",
+    "incorrect_answers": [
+      "1985",
+      "1999",
+      "1990"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "People",
+    "difficulty": "easy",
+    "question": "Who played the female lead in the 1933 film 'King Kong'?",
+    "correct_answer": "Fay Wray",
+    "incorrect_answers": [
+      "Jean Harlow",
+      "Vivien Leigh",
+      "Mae West"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "Movie",
+    "difficulty": "medium",
+    "question": "In which 1973 film does Yul Brynner play a robotic cowboy who malfunctions and goes on a killing spree?",
+    "correct_answer": "Westworld",
+    "incorrect_answers": [
+      "Runaway",
+      "Android",
+      "The Terminators"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which actor played the main character in the 1990 film 'Edward Scissorhands'?",
+    "correct_answer": "Johnny Depp",
+    "incorrect_answers": [
+      " Clint Eastwood",
+      "Leonardo DiCaprio",
+      "Ben Stiller"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of James Dean's character in the 1955 movie 'Rebel Without a Cause'?",
+    "correct_answer": "Jim Stark",
+    "incorrect_answers": [
+      "Ned Stark",
+      "Jim Kane",
+      "Frank Stark"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
+    "correct_answer": "Highlander",
+    "incorrect_answers": [
+      "Flash Gordon",
+      "Labyrinth",
+      "Howard the Duck"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the title of the first Bond movie, released in 1962?",
+    "correct_answer": "Dr. No",
+    "incorrect_answers": [
+      "From Russia with Love",
+      "Goldfinger",
+      "Thunderball"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What did Alfred Hitchcock use as blood in the film 'Psycho'? ",
+    "correct_answer": "Chocolate syrup",
+    "incorrect_answers": [
+      "Ketchup",
+      "Red food coloring",
+      "Maple syrup"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who played Batman in the 1997 film 'Batman and Robin'?",
+    "correct_answer": "George Clooney",
+    "incorrect_answers": [
+      "Michael Keaton",
+      "Val Kilmer",
+      "Christian Bale"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "This movie contains the quote, 'Nobody puts Baby in a corner.'",
+    "correct_answer": "Dirty Dancing",
+    "incorrect_answers": [
+      "Three Men and a Baby",
+      "Ferris Bueller's Day Off",
+      "Pretty in Pink"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the orange and white bot's name in 'Star Wars: The Force Awakens'?",
+    "correct_answer": "BB-8",
+    "incorrect_answers": [
+      "BB-3",
+      "AA-A",
+      "R2-D2"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the first 'Star Wars' film by release order?",
+    "correct_answer": "A New Hope",
+    "incorrect_answers": [
+      "The Phantom Menace",
+      "The Force Awakens",
+      "Revenge of the Sith"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the 1971 film 'Willy Wonka and the Chocolate Factory', who played Willy Wonka?",
+    "correct_answer": "Gene Wilder",
+    "incorrect_answers": [
+      "Shia LeBouf",
+      "Peter Ostrum",
+      "Johnny Depp"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?",
+    "correct_answer": "Jackie Earle Haley",
+    "incorrect_answers": [
+      "Tyler Mane",
+      "Derek Mears",
+      "Gunnar Hansen"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which one of these action movies are shot entirely in one take?",
+    "correct_answer": "Victoria",
+    "incorrect_answers": [
+      "Ip Man 2",
+      "The Bourne Legacy",
+      "L&eacute;on: The Professional"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who played Sgt. Gordon Elias in 'Platoon' (1986)?",
+    "correct_answer": "Willem Dafoe",
+    "incorrect_answers": [
+      "Charlie Sheen",
+      "Matt Damon",
+      "Johnny Depp"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who in Pulp Fiction says 'No, they got the metric system there, they wouldn't know what the fuck a Quarter Pounder is.'",
+    "correct_answer": "Vincent Vega",
+    "incorrect_answers": [
+      "Jules Winnfield",
+      "Jimmie Dimmick",
+      "Butch Coolidge"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-III?",
+    "correct_answer": "Ewan McGregor",
+    "incorrect_answers": [
+      "Alec Guinness",
+      "Hayden Christensen",
+      "Liam Neeson"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the name of the actor who played Leatherface in the 1974 horror film, The Texas Chainsaw Massacre?",
+    "correct_answer": "Gunnar Hansen",
+    "incorrect_answers": [
+      "Edwin Neal",
+      "John Dugan",
+      "Joe Bill Hogan"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What city did the monster attack in the film, 'Cloverfield'?",
+    "correct_answer": "New York, New York",
+    "incorrect_answers": [
+      "Las Vegas, Nevada",
+      "Chicago, Illinois",
+      "Orlando, Florida"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of cheese, loved by Wallace and Gromit, had it's sale prices rise after their successful short films?",
+    "correct_answer": "Wensleydale",
+    "incorrect_answers": [
+      "Cheddar",
+      "Moon Cheese",
+      "Edam"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which famous singer was portrayed by actor Kevin Spacey in the 2004 biographical film 'Beyond the Sea'?",
+    "correct_answer": "Bobby Darin",
+    "incorrect_answers": [
+      "Louis Armstrong",
+      "Frank Sinatra",
+      "Dean Martin"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the 1995 film 'Balto', who are Steele's accomplices?",
+    "correct_answer": "Kaltag, Nikki, and Star",
+    "incorrect_answers": [
+      "Dusty, Kirby, and Ralph",
+      "Nuk, Yak, and Sumac",
+      "Jenna, Sylvie, and Dixie"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is the director of the 1991 film 'Silence of the Lambs'?",
+    "correct_answer": "Jonathan Demme",
+    "incorrect_answers": [
+      "Stanley Kubrick",
+      "Frank Darabont",
+      "Michael Bay"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Mark Wahlberg played the titular character of which 2008 video-game adaptation?",
+    "correct_answer": "Max Payne",
+    "incorrect_answers": [
+      "Alan Wake",
+      "Hitman",
+      "God Of War"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which documentary film maker wrote and starred in the film 'My Scientology Movie' which first debuted in 2015?",
+    "correct_answer": "Louis Theroux",
+    "incorrect_answers": [
+      "Errol Morris",
+      "Joe Berlinger",
+      "Adam Curtis"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the supercomputer located in the control room in 'Jurassic Park' (1993)?",
+    "correct_answer": "Thinking Machines CM-5",
+    "incorrect_answers": [
+      "Cray X-MP",
+      "Cray XK7",
+      "IBM Blue Gene\/Q"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who directed the movie 'Alien'?",
+    "correct_answer": "Ridley Scott",
+    "incorrect_answers": [
+      "Christopher Nolan",
+      "Michael Bay",
+      "James Cameron"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie 'Avatar'?",
+    "correct_answer": "Sigourney Weaver",
+    "incorrect_answers": [
+      "Jessica Chastain",
+      "Melissa Beckett",
+      "Alyssa Monroe "
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the species of the 'Predator' in the 1987 movie 'Predator'?",
+    "correct_answer": "Yautja",
+    "incorrect_answers": [
+      "Xenomorph",
+      "Praetorian",
+      "Phocrex"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which former Star Trek actor directed Three Men and a Baby (1987)?",
+    "correct_answer": "Leonard Nimoy",
+    "incorrect_answers": [
+      "William Shatner",
+      "George Takei",
+      "James Doohan"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",
+    "correct_answer": "Dave",
+    "incorrect_answers": [
+      "John",
+      "Will",
+      "Carl"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the first feature-length computer-animated movie?",
+    "correct_answer": "Toy Story",
+    "incorrect_answers": [
+      "Tron",
+      "Lion king",
+      "101 Dalmatians"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is Lilo's last name from Lilo and Stitch?",
+    "correct_answer": "Pelekai",
+    "incorrect_answers": [
+      "Anoa\u02bbi",
+      "Kealoha",
+      "Ku\u02bbulei"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Big Hero 6, what were Baymax's motions modeled after?",
+    "correct_answer": "Baby penguins",
+    "incorrect_answers": [
+      "Baby monkeys",
+      "Baby ostriches",
+      "Baby bears"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the Friday The 13th series, what year did Jason drown in?",
+    "correct_answer": "1957",
+    "incorrect_answers": [
+      "1955",
+      "1953",
+      "1959"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which film does Humphrey Bogart say the famous line, 'Here's looking at you, kid'?",
+    "correct_answer": "Casablanca",
+    "incorrect_answers": [
+      "The Maltese Falcon",
+      "The Treasure of the Sierra Madre",
+      "Citizen Kane"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?",
+    "correct_answer": "Plan 9 from Outer Space",
+    "incorrect_answers": [
+      "The Man from Planet X",
+      "It Came from Outer Space",
+      "The Day The Earth Stood Still"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which 90's comedy cult classic features cameos appearances from Meat Loaf, Alice Cooper and Chris Farley?",
+    "correct_answer": "Wayne's World",
+    "incorrect_answers": [
+      "Bill and Ted's Excellent Adventure",
+      "Dumb and Dumber",
+      "Austin Powers: International Man of Mystery"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of the fictional retro-mod band starring Austin Powers as the lead vocalist?",
+    "correct_answer": "Ming Tea",
+    "incorrect_answers": [
+      "Cough Fi",
+      "Spear Mint",
+      "Mister E"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who directed the Kill Bill movies?",
+    "correct_answer": "Quentin Tarantino",
+    "incorrect_answers": [
+      "Arnold Schwarzenegger",
+      "David Lean",
+      "Stanley Kubrick"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which star actor was in 'Top Gun', 'Jerry Maguire' and 'Born on the Fourth of July'?",
+    "correct_answer": "Tom Cruise",
+    "incorrect_answers": [
+      "Kelly McGillis",
+      "John Travolta",
+      "George Clooney"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Brendan Fraser starred in the following movies, except which one?",
+    "correct_answer": "Titanic",
+    "incorrect_answers": [
+      "Monkeybone",
+      "Encino Man",
+      "Mrs. Winterbourne"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the 2014 film 'Birdman', what is the primary instrument in the score?",
+    "correct_answer": "Drums",
+    "incorrect_answers": [
+      "Saxophone",
+      "Violin",
+      "Actual Live Birds Singing"
+    ]
+  },
+  {
+    "category": "Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which musical artist had a prominent role in the 2017 film 'Kingsman: The Golden Circle'?",
+    "correct_answer": "Elton John",
+    "incorrect_answers": [
+      "Lady Gaga",
+      "Rihanna",
+      "Justin Bieber"
+    ]
+  }
+]
